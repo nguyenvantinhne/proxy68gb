@@ -5,7 +5,7 @@ const cors = require('cors');
 const app = express();
 const PORT = process.env.PORT || 3002;
 
-const ALLOWED_DOMAINS = ['http://toolviptx.site', 'https://toolviptx.site'];
+const ALLOWED_DOMAINS = ['http://tooltxvip.top', 'https://tooltxvip.top'];
 
 // Cấu hình CORS chỉ cho phép đúng domain
 const corsOptions = {
